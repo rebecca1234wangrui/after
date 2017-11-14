@@ -1,0 +1,21 @@
+{
+    "name": "rebecca1234wangrui/after",
+    "description": "after",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "rebecca1234",
+            "email": "1173698403@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
